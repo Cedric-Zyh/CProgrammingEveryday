@@ -5,7 +5,7 @@
 且无重复数字的三位数？都是多少？
 */
 
-// 普通方法
+// 通常方法
 void method_1() 
 {
     int i, j, k;
@@ -31,7 +31,7 @@ void method_1()
             }
         }
     }
-    printf("共有%d个结果", count);
+    printf("There are %d results.\n", count);
 }
 
 // 方法二（该方法适合从n个数中选出n-1个不同的数进行组合）
@@ -47,7 +47,7 @@ void swap(int position_1, int position_2) {
 void method_2(int step) {
     if (step == 5)
     {
-        printf("共有%d个结果", count);
+        printf("There are %d results.\n", count);
         return;
     }
     
@@ -64,7 +64,9 @@ void method_2(int step) {
 int main() 
 {
     method_1();
-
+    printf("\n");
     method_2(1);
+
+    system("pause");
     return 0;
 }
