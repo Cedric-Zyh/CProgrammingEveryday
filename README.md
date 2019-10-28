@@ -10,3 +10,5 @@ day2. [企业发放的奖金根据利润提成。利润(I)低于或等于10万�
 day3. [一个整数，它加上100后是一个完全平方数，再加上168又是一个完全平方数，请问该数是多少？](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day3)
 
 day4. [输入某年某月某日，判断这一天是这一年的第几天？](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day4)
+
+day5. [输入三个整数x,y,z，请把这三个数由小到大输出。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day5)
