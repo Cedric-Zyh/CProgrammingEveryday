@@ -14,3 +14,5 @@ day4. [输入某年某月某日，判断这一天是这一年的第几天？](ht
 day5. [输入三个整数x,y,z，请把这三个数由小到大输出。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day5)
 
 day6. [用*号输出字母C的图案。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day6)
+
+day7. [输出特殊图案，请在c环境中运行，看一看，Very Beautiful!](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day7)
