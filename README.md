@@ -1,7 +1,8 @@
 # CProgrammingEveryday
+
  C语言编程每日一题
 
-# 目录
+## 目录
 
 day1. [有1、2、3、4个数字，能组成多少个互不相同且无重复数字的三位数？都是多少？](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day1)
 
@@ -16,3 +17,5 @@ day5. [输入三个整数x,y,z，请把这三个数由小到大输出。](https:
 day6. [用*号输出字母C的图案。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day6)
 
 day7. [输出特殊图案，请在c环境中运行，看一看，Very Beautiful!](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day7)
+
+day8. [输出9*9口诀](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day8)
