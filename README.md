@@ -19,3 +19,5 @@ day6. [用*号输出字母C的图案。](https://github.com/Z-P-J/CProgrammingEv
 day7. [输出特殊图案，请在c环境中运行，看一看，Very Beautiful!](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day7)
 
 day8. [输出9*9口诀](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day8)
+
+day9. [要求输出国际象棋棋盘。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day9)
