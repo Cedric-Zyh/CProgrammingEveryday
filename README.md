@@ -21,3 +21,5 @@ day7. [输出特殊图案，请在c环境中运行，看一看，Very Beautiful!
 day8. [输出9*9口诀](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day8)
 
 day9. [要求输出国际象棋棋盘。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day9)
+
+day10. [打印楼梯，同时在楼梯上方打印两个笑脸。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day10)
