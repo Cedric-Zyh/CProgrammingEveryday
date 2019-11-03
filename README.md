@@ -23,3 +23,5 @@ day8. [输出9*9口诀](https://github.com/Z-P-J/CProgrammingEveryday/blob/maste
 day9. [要求输出国际象棋棋盘。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day9)
 
 day10. [打印楼梯，同时在楼梯上方打印两个笑脸。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day10)
+
+day11. [古典问题（兔子生崽）：有一对兔子，从出生后第3个月起每个月都生一对兔子，小兔子长到第三个月后每个月又生一对兔子，假如兔子都不死，问每个月的兔子总数为多少？（输出前40个月即可）](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day11)
