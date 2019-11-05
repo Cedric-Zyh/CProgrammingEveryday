@@ -27,3 +27,5 @@ day10. [打印楼梯，同时在楼梯上方打印两个笑脸。](https://githu
 day11. [古典问题（兔子生崽）：有一对兔子，从出生后第3个月起每个月都生一对兔子，小兔子长到第三个月后每个月又生一对兔子，假如兔子都不死，问每个月的兔子总数为多少？（输出前40个月即可）](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day11)
 
 day12. [判断1到200之间的素数。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day12)
+
+day13. [打印出所有的"水仙花数"，所谓"水仙花数"是指一个三位数，其各位数字立方和等于该数 本身。例如：153是一个"水仙花数"，因为153=1的三次方＋5的三次方＋3的三次方。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day13)
