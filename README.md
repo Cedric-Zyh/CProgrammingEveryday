@@ -31,3 +31,5 @@ day12. [判断1到200之间的素数。](https://github.com/Z-P-J/CProgrammingEv
 day13. [打印出所有的"水仙花数"，所谓"水仙花数"是指一个三位数，其各位数字立方和等于该数 本身。例如：153是一个"水仙花数"，因为153=1的三次方＋5的三次方＋3的三次方。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day13)
 
 day14. [将一个正整数分解质因数。例如：输入90,打印出90=2*3*3*5](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day14)
+
+day15. [利用条件运算符的嵌套来完成此题：学习成绩>=90分的同学用A表示，60-89分之间的用B表示，60分以下的用C表示。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day15)
