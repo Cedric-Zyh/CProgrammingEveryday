@@ -35,3 +35,5 @@ day14. [将一个正整数分解质因数。例如：输入90,打印出90=2*3*3*
 day15. [利用条件运算符的嵌套来完成此题：学习成绩>=90分的同学用A表示，60-89分之间的用B表示，60分以下的用C表示。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day15)
 
 day16. [输入两个正整数m和n，求其最大公约数和最小公倍数。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day16)
+
+day17. [输入一行字符，分别统计出其中英文字母、空格、数字和其它字符的个数。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day17)
