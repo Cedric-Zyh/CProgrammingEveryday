@@ -39,3 +39,5 @@ day16. [输入两个正整数m和n，求其最大公约数和最小公倍数。]
 day17. [输入一行字符，分别统计出其中英文字母、空格、数字和其它字符的个数。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day17)
 
 day18. [求s=a+aa+aaa+aaaa+aa...a的值，其中a是一个数字。例如2+22+222+2222+22222(此时共有5个数相加)，几个数相加有键盘控制。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day18)
+
+day19. [一个数如果恰好等于它的因子之和，这个数就称为"完数"。例如6=1＋2＋3.编程找出1000以内的所有完数。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day19)
