@@ -51,3 +51,5 @@ day22. [两个乒乓球队进行比赛，各出三人。甲队为a,b,c三人，�
 day23. [用*打印出如下菱形](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day23)
 
 day24. [有一分数序列：2/1，3/2，5/3，8/5，13/8，21/13...求出这个数列的前20项之和。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day24)
+
+day25. [求1+2!+3!+...+20!的和。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day25)
