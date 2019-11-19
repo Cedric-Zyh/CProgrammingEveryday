@@ -55,3 +55,5 @@ day24. [有一分数序列：2/1，3/2，5/3，8/5，13/8，21/13...求出这个
 day25. [求1+2!+3!+...+20!的和。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day25)
 
 day26. [利用递归方法求5!。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day26)
+
+day27. [利用递归函数调用方式，将所输入的5个字符，以相反顺序打印出来。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day27)
