@@ -63,3 +63,5 @@ day28. [有5个人坐在一起，问第五个人多少岁？他说比第4个人�
 day29. [给一个不多于5位的正整数，要求：一、求它是几位数，二、逆序打印出各位数字。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day29)
 
 day30. [一个5位数，判断它是不是回文数。即12321是回文数，个位与万位相同，十位与千位相同。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day30)
+
+day31. [请输入星期几的第一个字母来判断一下是星期几，如果第一个字母一样，则继续判断第二个字母。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day31)
