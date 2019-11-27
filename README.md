@@ -71,3 +71,5 @@ day32. [删除一个字符串中的指定字母，如：字符串 "aca"，删除
 day33. [判断一个数字是否为质数。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day33)
 
 day34. [练习函数调用。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day34)
+
+day35. [字符串反转，如将字符串 "www.runoob.com" 反转为 "moc.boonur.www"。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day35)
