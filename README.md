@@ -73,3 +73,5 @@ day33. [判断一个数字是否为质数。](https://github.com/Z-P-J/CProgramm
 day34. [练习函数调用。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day34)
 
 day35. [字符串反转，如将字符串 "www.runoob.com" 反转为 "moc.boonur.www"。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day35)
+
+day36. [求100之内的素数。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day36)
