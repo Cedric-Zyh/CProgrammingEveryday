@@ -75,3 +75,5 @@ day34. [练习函数调用。](https://github.com/Z-P-J/CProgrammingEveryday/blo
 day35. [字符串反转，如将字符串 "www.runoob.com" 反转为 "moc.boonur.www"。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day35)
 
 day36. [求100之内的素数。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day36)
+
+day37. [对10个数进行排序。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day37)
