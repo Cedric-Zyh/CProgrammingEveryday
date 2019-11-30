@@ -77,3 +77,5 @@ day35. [字符串反转，如将字符串 "www.runoob.com" 反转为 "moc.boonur
 day36. [求100之内的素数。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day36)
 
 day37. [对10个数进行排序。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day37)
+
+day38. [求一个3*3矩阵对角线元素之和](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day38)
