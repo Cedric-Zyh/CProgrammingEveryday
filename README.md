@@ -79,3 +79,5 @@ day36. [求100之内的素数。](https://github.com/Z-P-J/CProgrammingEveryday/
 day37. [对10个数进行排序。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day37)
 
 day38. [求一个3*3矩阵对角线元素之和](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day38)
+
+day39. [有一个已经排好序的数组。现输入一个数，要求按原来的规律将它插入数组中。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day39)
