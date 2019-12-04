@@ -85,3 +85,5 @@ day39. [有一个已经排好序的数组。现输入一个数，要求按原来
 day40. [将一个数组逆序输出。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day40)
 
 day41. [学习static定义静态变量的用法。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day41)
+
+day42. [学习使用auto定义变量的用法。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day42)
