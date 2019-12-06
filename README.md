@@ -89,3 +89,5 @@ day41. [学习static定义静态变量的用法。](https://github.com/Z-P-J/CPr
 day42. [学习使用auto定义变量的用法。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day42)
 
 day43. [学习使用static的另一用法。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day43)
+
+day44. [学习使用external的用法。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day44)
