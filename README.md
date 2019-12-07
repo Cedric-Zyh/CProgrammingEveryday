@@ -91,3 +91,5 @@ day42. [学习使用auto定义变量的用法。](https://github.com/Z-P-J/CProg
 day43. [学习使用static的另一用法。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day43)
 
 day44. [学习使用external的用法。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day44)
+
+day45. [学习使用register定义变量的方法。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day45)
