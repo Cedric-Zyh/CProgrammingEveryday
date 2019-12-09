@@ -95,3 +95,5 @@ day44. [学习使用external的用法。](https://github.com/Z-P-J/CProgrammingE
 day45. [学习使用register定义变量的方法。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day45)
 
 day46. [宏#define命令练习。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day46)
+
+day47. [宏#define命令练习2。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day47)
