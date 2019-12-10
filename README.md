@@ -97,3 +97,5 @@ day45. [学习使用register定义变量的方法。](https://github.com/Z-P-J/C
 day46. [宏#define命令练习。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day46)
 
 day47. [宏#define命令练习2。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day47)
+
+day48. [宏#define命令练习3。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day48)
