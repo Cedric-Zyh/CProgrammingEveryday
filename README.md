@@ -99,3 +99,5 @@ day46. [宏#define命令练习。](https://github.com/Z-P-J/CProgrammingEveryday
 day47. [宏#define命令练习2。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day47)
 
 day48. [宏#define命令练习3。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day48)
+
+day49. [#if #ifdef和#ifndef的综合应用。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day49)
