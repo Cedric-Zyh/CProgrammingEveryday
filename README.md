@@ -103,3 +103,7 @@ day48. [宏#define命令练习3。](https://github.com/Z-P-J/CProgrammingEveryda
 day49. [#if #ifdef和#ifndef的综合应用。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day49)
 
 day50. [#include的应用练习](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day50)
+
+day51. [学习使用按位与 &。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day51)
+
+day52. [学习使用按位或|。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day52)
