@@ -107,3 +107,5 @@ day50. [#include的应用练习](https://github.com/Z-P-J/CProgrammingEveryday/b
 day51. [学习使用按位与 &。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day51)
 
 day52. [学习使用按位或|。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day52)
+
+day53. [学习使用按位异或 ^。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day53)
