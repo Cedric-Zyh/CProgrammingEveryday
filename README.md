@@ -109,3 +109,7 @@ day51. [学习使用按位与 &。](https://github.com/Z-P-J/CProgrammingEveryda
 day52. [学习使用按位或|。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day52)
 
 day53. [学习使用按位异或 ^。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day53)
+
+day54. [取一个整数 a 从右端开始的 4～7 位。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day54)
+
+day55. [学习使用按位取反~。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day55)
