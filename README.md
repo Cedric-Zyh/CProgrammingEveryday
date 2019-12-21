@@ -115,3 +115,5 @@ day54. [取一个整数 a 从右端开始的 4～7 位。](https://github.com/Z-
 day55. [学习使用按位取反~。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day55)
 
 day56. [输入3个数a,b,c，按大小顺序输出。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day56)
+
+day57. [输入数组，最大的与第一个元素交换，最小的与最后一个元素交换，输出数组。](https://github.com/Z-P-J/CProgrammingEveryday/blob/master/src/day57)
